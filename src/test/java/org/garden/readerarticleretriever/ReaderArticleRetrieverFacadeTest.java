@@ -1,7 +1,6 @@
 package org.garden.readerarticleretriever;
 
 
-import org.garden.authorartickleretriever.ArticleDto;
 import org.junit.jupiter.api.Test;
 
 class ReaderArticleRetrieverFacadeTest {
@@ -12,6 +11,7 @@ class ReaderArticleRetrieverFacadeTest {
         ReaderArticleRetrieverFacade facade = new ReaderArticleRetrieverFacade();
 //         when
         ArticleDto articleDto = facade.retrieveByID(1L);
+//        then
 
 
 

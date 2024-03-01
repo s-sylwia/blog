@@ -1,4 +1,4 @@
 package org.garden.authorarticklecud;
 
-public class AuthorArticleCud {
+public class AuthorArticleCudFacade {
 }

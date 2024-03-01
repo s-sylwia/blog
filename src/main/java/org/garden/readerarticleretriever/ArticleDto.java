@@ -1,4 +1,4 @@
-package org.garden.authorartickleretriever;
+package org.garden.readerarticleretriever;
 
 
 import lombok.Builder;
