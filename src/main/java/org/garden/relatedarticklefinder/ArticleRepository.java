@@ -1,4 +1,4 @@
 package org.garden.relatedarticklefinder;
 
-public class RelatedArtickleFinderFacade {
+public class ArticleRepository {
 }
